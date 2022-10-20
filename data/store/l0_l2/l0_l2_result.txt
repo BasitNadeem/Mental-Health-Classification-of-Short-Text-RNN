@@ -1,0 +1,9 @@
+
+
+optimezer: adam
+epoch is 10
+batch size is 64
+LSTM num is 4
+text max length is 16
+accuracy is 1.0
+

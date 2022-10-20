@@ -1,0 +1,20 @@
+epoch is 10
+optimizer is: adam
+batch size is 64
+LSTM num is 16
+text max length is 32
+self total accuracy is 0.8794082486551106
+self row accuracy is 0.7083084279737
+score is 0.3011682331562042
+accuracy by model_predict is 0.7531380653381348
+total number of training data is 14485
+epoch is 10
+optimizer is: adam
+batch size is 64
+LSTM num is 16
+text max length is 32
+self total accuracy is 0.8924088463837417
+self row accuracy is 0.7106993424985056
+score is 0.2555271089076996
+accuracy by model_predict is 0.77764493227005
+total number of training data is 14485
